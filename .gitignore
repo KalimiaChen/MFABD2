@@ -477,4 +477,8 @@ package-lock.json
 package.json
 prettier.config.mjs
 
+# macOS
+.DS_Store
+**/.DS_Store
+
 .claude/*
